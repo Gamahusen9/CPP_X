@@ -1,0 +1,8 @@
+<?php 
+echo "angka";
+echo "angka";
+echo "bebek"; 
+$angka = [bebek,bebek,bebek];
+
+echo $angka;
+?>
